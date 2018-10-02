@@ -1,0 +1,3 @@
+Student Number: 040898399
+Name: Jamie Harnum
+Lab 1 URL: http://jharnum.com/CST8238/Lab1/index.html

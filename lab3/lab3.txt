@@ -1,0 +1,5 @@
+Student Number: 040898399
+Name: Jamie Harnum
+Lab 3 URL: http://jharnum.com/CST8238/Lab3/index.html
+
+Note: I ended up using some CSS styles for this assignment just to keep myself organized, I realize that's going ahead a little bit so please let me know if you'd rather I didn't in the future unless specified!

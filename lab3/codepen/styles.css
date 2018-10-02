@@ -1,0 +1,57 @@
+body {
+	background-color: #c2c2d6;
+}
+
+table {
+	border-collapse: collapse;
+	border: 2px solid black;
+	
+}
+
+#col1 {
+	background-color: #527cdd;
+	width: 250px;
+}
+
+#col2 {
+	background-color: #6e52dd;
+	width: 200px;
+}
+
+#col3 {
+	background-color: #52c1dd;
+	width: 150px;
+}
+
+#dates {
+  height: 75px;
+}
+
+#dates > td {
+  width: 75px;
+}
+
+#wknd {
+  background-color: #A0A0B4;
+}
+
+#schedule > table tr:nth-child(even) {
+  background-color: #A0A0B4;
+}
+
+#schedule > table td {
+  width: 100px;
+  height: 25px;
+}
+
+#class {
+  background-color: #339933;
+}
+
+#other {
+  background-color: #339966;
+}
+
+#time {
+  background-color: #666666;
+}
